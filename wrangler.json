@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-template",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "dac95b3e-1443-4ad3-8b93-84097cbb966f",
+			"database_name": "herstel-start-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
